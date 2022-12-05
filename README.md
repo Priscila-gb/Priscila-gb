@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Priscila. 👋
 
 
-- 🎨 Estou trabalhando em um projeto escolar.
+- 🎨 Estudo na ETEC Registro cursando o 2 ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas.
 - 🐚 Pronomes: ela/dela.
 
 <div align="center">
