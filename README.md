@@ -1,4 +1,4 @@
-### Oii! Eu sou a Priscila. 👋
+### Olá! Eu sou a Priscila. 👋
 
 
 - 🎨 Estudo na ETEC Registro cursando o 2 ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas.
