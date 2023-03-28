@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Priscila. 👋
 
 
-- 🎨 Estudo na ETEC Registro cursando o 2 ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas.
+- 🎨 Estudo na ETEC Registro cursando o 3 ano do Ensino Médio integrado ao curso de Desenvolvimento de Sistemas.
 - 🐚 Pronomes: ela/dela.
 
 <div align="center">
